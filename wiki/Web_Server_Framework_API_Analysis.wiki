@@ -6,5 +6,8 @@
 = Details =
 
 = References=
+==General EE==
 http://download.oracle.com/docs/cd/E17802_01/products/products/servlet/2.5/docs/servlet-2_5-mr2/index.html
 http://en.wikipedia.org/wiki/Embedded_HTTP_server
+==SPIN Bytecode==
+http://propeller.wikispaces.com/Homespun+Spin+Compiler
