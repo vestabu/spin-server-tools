@@ -1,0 +1,6 @@
+#summary One-sentence summary of this page.
+#labels Phase-Implementation
+
+= Intellectual Property Log =
+*Below is a list of modules form 3rd party software providers that are incorporated into this source
+
